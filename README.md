@@ -1,5 +1,3 @@
-Certainly! Here's a more detailed README file template for your project. Please replace placeholder information with your actual project details and customize the content as needed.
-
 ```markdown
 # Micro-Service Framework and University Compute Resources Management System
 
